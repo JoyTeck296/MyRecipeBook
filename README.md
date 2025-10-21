@@ -1,1 +1,1 @@
-# Recipebook
+#This small website is a personal collection of easy homemade recipes. Each page contains a short description, list of ingredients, and step-by-step instructions.#
